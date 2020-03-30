@@ -1,0 +1,8 @@
+README.md
+setup.py
+http_logger/__init__.py
+http_logger/handlers.py
+http_logger.egg-info/PKG-INFO
+http_logger.egg-info/SOURCES.txt
+http_logger.egg-info/dependency_links.txt
+http_logger.egg-info/top_level.txt
